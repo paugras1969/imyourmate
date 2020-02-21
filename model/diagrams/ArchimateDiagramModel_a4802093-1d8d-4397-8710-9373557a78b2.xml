@@ -1723,7 +1723,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="866626c5-7e13-4c45-a0be-3ed3821f86c2"
-      targetConnections="29ead210-bfba-4ef9-a282-822b527052b1 f977141b-dc88-46e7-b13c-58f775b6064f">
+      targetConnections="29ead210-bfba-4ef9-a282-822b527052b1 f977141b-dc88-46e7-b13c-58f775b6064f da7a30f1-7865-4fed-9d57-034d10d307db">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="eb39a5fd-c8ef-4aa9-be78-0906a32e8703"
@@ -1796,6 +1796,35 @@
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_72be8ec0-f26f-420a-a9b2-8c115457bfbc.xml#72be8ec0-f26f-420a-a9b2-8c115457bfbc"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="da7a30f1-7865-4fed-9d57-034d10d307db"
+        source="866626c5-7e13-4c45-a0be-3ed3821f86c2"
+        target="866626c5-7e13-4c45-a0be-3ed3821f86c2">
+      <bendpoints
+          startX="60"
+          startY="-65"
+          endX="60"
+          endY="-65"/>
+      <bendpoints
+          startX="40"
+          startY="-65"
+          endX="40"
+          endY="-65"/>
+      <bendpoints
+          startX="11"
+          startY="-65"
+          endX="11"
+          endY="-65"/>
+      <bendpoints
+          startX="11"
+          startY="-45"
+          endX="11"
+          endY="-45"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_9495b2b7-1eef-446e-9990-77bf119b0bc3.xml#9495b2b7-1eef-446e-9990-77bf119b0bc3"/>
+    </sourceConnections>
     <bounds
         x="1490"
         y="-12"
@@ -1839,6 +1868,11 @@
         id="f9523dde-1d7f-4961-a921-eda935d3028c"
         source="c6614e6e-96c0-4fe4-a601-3a0caab53fad"
         target="1cc61eee-1b42-4634-9c97-25fa8e15c4da">
+      <bendpoints
+          startX="56"
+          startY="41"
+          endX="-101"
+          endY="-39"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_f0dcba78-8b48-49e7-b8b4-59d8d142651c.xml#f0dcba78-8b48-49e7-b8b4-59d8d142651c"/>
@@ -3582,10 +3616,10 @@
           href="CompositionRelationship_57e98227-3c3b-4f9d-a315-0ffabcd1c526.xml#57e98227-3c3b-4f9d-a315-0ffabcd1c526"/>
     </sourceConnections>
     <bounds
-        x="1372"
-        y="250"
-        width="100"
-        height="55"/>
+        x="1336"
+        y="234"
+        width="112"
+        height="54"/>
     <archimateElement
         xsi:type="archimate:Device"
         href="Device_ef359aa3-9c68-4e42-b52b-8760186d135f.xml#ef359aa3-9c68-4e42-b52b-8760186d135f"/>

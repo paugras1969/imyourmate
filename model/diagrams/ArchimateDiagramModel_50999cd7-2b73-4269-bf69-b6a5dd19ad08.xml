@@ -111,7 +111,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="372f5a30-bbf0-4a19-8b60-dfa903db33d8"
-      targetConnections="272acfba-0e25-49c6-abce-46e785150692 62b156a3-1cdd-45d8-9d72-9d1d92f86901">
+      targetConnections="272acfba-0e25-49c6-abce-46e785150692 62b156a3-1cdd-45d8-9d72-9d1d92f86901 4da4bb21-3171-4e04-95f4-c302a37c5ef6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="76993236-bb9f-414f-8538-4ffed49ac2e3"
@@ -163,6 +163,30 @@
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_72be8ec0-f26f-420a-a9b2-8c115457bfbc.xml#72be8ec0-f26f-420a-a9b2-8c115457bfbc"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="4da4bb21-3171-4e04-95f4-c302a37c5ef6"
+        source="372f5a30-bbf0-4a19-8b60-dfa903db33d8"
+        target="372f5a30-bbf0-4a19-8b60-dfa903db33d8">
+      <bendpoints
+          startX="40"
+          startY="-63"
+          endX="40"
+          endY="-63"/>
+      <bendpoints
+          startX="80"
+          startY="-63"
+          endX="80"
+          endY="-63"/>
+      <bendpoints
+          startX="80"
+          startY="-23"
+          endX="80"
+          endY="-23"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_9495b2b7-1eef-446e-9990-77bf119b0bc3.xml#9495b2b7-1eef-446e-9990-77bf119b0bc3"/>
     </sourceConnections>
     <bounds
         x="580"

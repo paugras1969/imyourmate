@@ -1,0 +1,13 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NUM#"
+    id="9495b2b7-1eef-446e-9990-77bf119b0bc3"
+    documentation="Exemple Client et Server&#xD;&#xA;">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_d6f6efbc-1702-40d4-b7fd-016997462775.xml#d6f6efbc-1702-40d4-b7fd-016997462775"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_d6f6efbc-1702-40d4-b7fd-016997462775.xml#d6f6efbc-1702-40d4-b7fd-016997462775"/>
+</archimate:CompositionRelationship>
