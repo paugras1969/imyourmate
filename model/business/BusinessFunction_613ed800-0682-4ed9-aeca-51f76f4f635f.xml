@@ -1,0 +1,17 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STEER &amp; PLAN"
+    id="613ed800-0682-4ed9-aeca-51f76f4f635f">
+  <properties
+      key="EN_US"
+      value="STEER &amp; PLAN"/>
+  <properties
+      key="FR_FR"
+      value="PLANIF"/>
+  <properties
+      key="name"
+      value="STEER &amp; PLAN"/>
+  <properties
+      key="LANG"
+      value="EN_US"/>
+</archimate:BusinessFunction>

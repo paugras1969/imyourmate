@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*2"
+    id="686c57b5-8f52-4311-806b-c2d5a591bcf5"
+    documentation="Only when business role is not clear. &#xD;&#xA;Only when Actor is an enterprise &#xD;&#xA;Never mention person at this level">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ddeb2ac1-2057-40c9-b7c9-2aca56c32a02.xml#ddeb2ac1-2057-40c9-b7c9-2aca56c32a02"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_730052a5-6aef-47d6-bf65-6e39b12724a5.xml#730052a5-6aef-47d6-bf65-6e39b12724a5"/>
+</archimate:AssignmentRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ASIS FR 19W06"
+    id="82386771-750c-4bdb-ab20-43962d919481">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_afac4c3b-0d6a-4681-b038-f6567b0afcb2.xml#afac4c3b-0d6a-4681-b038-f6567b0afcb2"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_120ce7a8-f1e0-47bc-8a6e-d4f6028b2ab5.xml#120ce7a8-f1e0-47bc-8a6e-d4f6028b2ab5"/>
+</archimate:RealizationRelationship>

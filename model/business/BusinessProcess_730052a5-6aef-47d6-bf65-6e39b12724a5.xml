@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7/ Any Business PROCESS or &quot;B&quot;"
+    id="730052a5-6aef-47d6-bf65-6e39b12724a5"
+    documentation="This is might be a specialization of a ENTERPRISE PROCESS(3) when defined to represent a business cases (as realized ) by theirs process owner ( Business Roles (8) or by specify actors(9). It realized indirectly also a ENTEPRISE SERVICE &#xD;&#xA;THIS made of a process of activities (11) and under controlled (i.e under the same ENTREPRISE FUNCTION) &#xD;&#xA;It uses  business Events(40) to trigger other business process. &#xD;&#xA;The goal a THIS it to deliver a piece of PROCESS RESULT (5) via the planned Entreprise Business Object(10)"/>

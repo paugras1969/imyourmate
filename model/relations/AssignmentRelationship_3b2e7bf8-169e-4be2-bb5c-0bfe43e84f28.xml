@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*20"
+    id="3b2e7bf8-169e-4be2-bb5c-0bfe43e84f28"
+    documentation="It is relevant to mention only if people are acting in different way according their location&#xD;&#xA;">
+  <source
+      xsi:type="archimate:Facility"
+      href="Facility_0ec8952f-2aea-4ae1-b879-6064b4b8d365.xml#0ec8952f-2aea-4ae1-b879-6064b4b8d365"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_730052a5-6aef-47d6-bf65-6e39b12724a5.xml#730052a5-6aef-47d6-bf65-6e39b12724a5"/>
+</archimate:AssignmentRelationship>

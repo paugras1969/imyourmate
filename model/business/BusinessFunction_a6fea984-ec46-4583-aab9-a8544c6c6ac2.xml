@@ -1,0 +1,17 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SALES . OFFER"
+    id="a6fea984-ec46-4583-aab9-a8544c6c6ac2">
+  <properties
+      key="EN_US"
+      value="SALES . OFFER"/>
+  <properties
+      key="FR_FR"
+      value="OFFRE &amp; VENTE"/>
+  <properties
+      key="name"
+      value="SALES &amp; OFFER"/>
+  <properties
+      key="LANG"
+      value="EN_US"/>
+</archimate:BusinessFunction>

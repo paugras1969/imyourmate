@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PAS Group"
+    id="a8b2c40d-b075-4e05-95c2-d52cb2cbb7af">
+  <properties
+      key="EN_US"
+      value="PAS Group"/>
+  <properties
+      key="FR_FR"
+      value="PAS Group"/>
+  <properties
+      key="name"
+      value="PAS Group"/>
+</archimate:BusinessActor>

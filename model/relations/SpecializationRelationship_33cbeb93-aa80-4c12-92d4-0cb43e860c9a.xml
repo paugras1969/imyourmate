@@ -1,0 +1,13 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*0"
+    id="33cbeb93-aa80-4c12-92d4-0cb43e860c9a"
+    documentation="This relationship is important to separate ENTERPRISE Concepts from BUSINESS concepts , this because of some adaption are often requiered by the business , either to adapt to reality of the field , either to propose and improve on the way of long length business program with stable stage. &#xD;&#xA;&#xD;&#xA;This relationship is mandatory a B view to ensure the connection with ENTREPRISE Concept since the business description after will have to be coherent with the ENTERPRISE process and associated connected artefacts like EVENT, SERVICES and FUNCTION">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_730052a5-6aef-47d6-bf65-6e39b12724a5.xml#730052a5-6aef-47d6-bf65-6e39b12724a5"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bda40bb9-d4ab-4edb-81d5-026780314581.xml#bda40bb9-d4ab-4edb-81d5-026780314581"/>
+</archimate:SpecializationRelationship>

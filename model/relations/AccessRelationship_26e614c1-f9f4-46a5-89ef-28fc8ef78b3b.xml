@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="44"
+    id="26e614c1-f9f4-46a5-89ef-28fc8ef78b3b"
+    documentation="Describe how the data will be received to ensure the digital continuity"
+    accessType="3">
+  <source
+      xsi:type="archimate:Path"
+      href="Path_632b618a-1fae-4549-a4cd-a01ff23f3d4f.xml#632b618a-1fae-4549-a4cd-a01ff23f3d4f"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_6748cf4a-a317-4501-9341-9b40f498948c.xml#6748cf4a-a317-4501-9341-9b40f498948c"/>
+</archimate:AccessRelationship>

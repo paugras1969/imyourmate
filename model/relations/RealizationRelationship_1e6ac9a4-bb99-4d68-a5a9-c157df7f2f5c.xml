@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*40"
+    id="1e6ac9a4-bb99-4d68-a5a9-c157df7f2f5c"
+    documentation="Mandatory in LIM++">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_6748cf4a-a317-4501-9341-9b40f498948c.xml#6748cf4a-a317-4501-9341-9b40f498948c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_4db3d3e8-5f64-4244-aa02-3b9c428a84ab.xml#4db3d3e8-5f64-4244-aa02-3b9c428a84ab"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samples For C Views"
+    id="1a2988c2-6e22-44fd-9af8-51dae47561ba">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="a8ccd5ae-2b54-47bd-96bc-b5ae0de26e98">
+    <bounds
+        x="216"
+        y="132"
+        width="193"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_04c0a35b-7950-49b2-83ea-f970ced8735c.xml#04c0a35b-7950-49b2-83ea-f970ced8735c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4978f447-a475-4a0e-bbfb-9511514171ad">
+    <bounds
+        x="216"
+        y="60"
+        width="193"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_8aa3b073-721d-41f2-9b54-ae6a1cfb8de4.xml#8aa3b073-721d-41f2-9b54-ae6a1cfb8de4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

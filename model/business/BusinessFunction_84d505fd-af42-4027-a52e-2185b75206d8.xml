@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPERATE"
+    id="84d505fd-af42-4027-a52e-2185b75206d8">
+  <properties
+      key="EN_US"
+      value="OPERATE"/>
+  <properties
+      key="FR_FR"
+      value="OPERATE"/>
+  <properties
+      key="name"
+      value="OPERATE"/>
+</archimate:BusinessFunction>

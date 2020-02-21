@@ -1,0 +1,13 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*0"
+    id="e8c99423-7c47-4456-b024-0a2c25e5ea75"
+    documentation="Must references an existing macro processus as a template , Resulting by an B-Process description">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_348e614a-24ed-4adb-8b5b-e1456c3c90b7.xml#348e614a-24ed-4adb-8b5b-e1456c3c90b7"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d373a447-9a82-4ea9-ad4a-002e2ef18ce2.xml#d373a447-9a82-4ea9-ad4a-002e2ef18ce2"/>
+</archimate:SpecializationRelationship>

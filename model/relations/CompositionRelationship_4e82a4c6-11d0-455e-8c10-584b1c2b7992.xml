@@ -1,0 +1,21 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="60%"
+    id="4e82a4c6-11d0-455e-8c10-584b1c2b7992">
+  <properties
+      key="EN_US"
+      value="60%"/>
+  <properties
+      key="FR_FR"
+      value="60%"/>
+  <properties
+      key="name"
+      value="60%"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_a8b2c40d-b075-4e05-95c2-d52cb2cbb7af.xml#a8b2c40d-b075-4e05-95c2-d52cb2cbb7af"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_69732555-bd55-4536-9f0a-fa52e5b817ab.xml#69732555-bd55-4536-9f0a-fa52e5b817ab"/>
+</archimate:CompositionRelationship>

@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[French]"
+    id="8d85203c-80a9-4e78-968a-be358fe73b43">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_f59d92ba-47b5-4e37-b435-bfa40a3c8755.xml#f59d92ba-47b5-4e37-b435-bfa40a3c8755"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_5905c8e4-5281-435d-93b0-28a8aaf70674.xml#5905c8e4-5281-435d-93b0-28a8aaf70674"/>
+</archimate:RealizationRelationship>

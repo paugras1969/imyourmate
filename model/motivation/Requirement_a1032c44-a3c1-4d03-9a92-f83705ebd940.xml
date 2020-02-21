@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ReqC"
+    id="a1032c44-a3c1-4d03-9a92-f83705ebd940"
+    documentation="O : 12,11,s17,15,16,17,14,13,7&#xD;&#xA;R 1,2,20,*25,25,8,*6,43,30, 40,*4&#xD;&#xA;Upstream&#xD;&#xA;R : 21,20,*2,*8,1,25&#xD;&#xA;O 8,29,9,7,10"/>

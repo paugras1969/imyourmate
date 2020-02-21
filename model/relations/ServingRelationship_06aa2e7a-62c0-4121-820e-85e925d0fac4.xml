@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="13"
+    id="06aa2e7a-62c0-4121-820e-85e925d0fac4"
+    documentation="This serving relation is usefull to put ENTERPRISE SERVICE in dependence of any MACRO PROCESSUS, meaning that ENTERPRISE  PROCESS is not able to create a ENTERPRISE SERVICES but will rely on exiting or planned ENTERPRISE SERVICES. ">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3d45b72d-b591-4047-ae2d-8ceffa9368f1.xml#3d45b72d-b591-4047-ae2d-8ceffa9368f1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bda40bb9-d4ab-4edb-81d5-026780314581.xml#bda40bb9-d4ab-4edb-81d5-026780314581"/>
+</archimate:ServingRelationship>

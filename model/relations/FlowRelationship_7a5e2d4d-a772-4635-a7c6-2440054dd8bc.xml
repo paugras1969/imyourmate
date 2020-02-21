@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11"
+    id="7a5e2d4d-a772-4635-a7c6-2440054dd8bc"
+    documentation="At any moment of a SERVICE execution , it can comes out of it one or multiples EVENTS to be sent to others SERVICES or serving a ENTERPRISE PROCESS.&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3d45b72d-b591-4047-ae2d-8ceffa9368f1.xml#3d45b72d-b591-4047-ae2d-8ceffa9368f1"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_28f61c86-c173-4cd5-a8cd-e0ab2fa35c06.xml#28f61c86-c173-4cd5-a8cd-e0ab2fa35c06"/>
+</archimate:FlowRelationship>

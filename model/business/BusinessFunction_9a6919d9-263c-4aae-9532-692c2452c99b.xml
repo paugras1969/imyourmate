@@ -1,0 +1,17 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QUALITE &amp; AMELIORATION"
+    id="9a6919d9-263c-4aae-9532-692c2452c99b">
+  <properties
+      key="EN_US"
+      value="AUDIT &amp; IMPROVE"/>
+  <properties
+      key="FR_FR"
+      value="QUALITE &amp; AMELIORATION"/>
+  <properties
+      key="name"
+      value="AUDIT &amp; IMPROVE"/>
+  <properties
+      key="LANG"
+      value="FR_FR"/>
+</archimate:BusinessFunction>

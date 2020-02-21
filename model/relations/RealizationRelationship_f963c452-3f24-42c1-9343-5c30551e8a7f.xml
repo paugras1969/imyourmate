@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="14"
+    id="f963c452-3f24-42c1-9343-5c30551e8a7f"
+    documentation="This relations of realizing give the process flows at entreprise level to give the SERVICE as expected by the one who reported the triggering EVENT. ">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bda40bb9-d4ab-4edb-81d5-026780314581.xml#bda40bb9-d4ab-4edb-81d5-026780314581"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3d45b72d-b591-4047-ae2d-8ceffa9368f1.xml#3d45b72d-b591-4047-ae2d-8ceffa9368f1"/>
+</archimate:RealizationRelationship>

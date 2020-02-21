@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="18"
+    id="d90419c5-b635-486d-8ca2-f281136631d2"
+    documentation="In MMD A views , this is optionnal ">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_b7b1ba28-1286-4618-b902-044a9b79ba8e.xml#b7b1ba28-1286-4618-b902-044a9b79ba8e"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_fbb9b589-868e-4eda-94b1-5c20669321e1.xml#fbb9b589-868e-4eda-94b1-5c20669321e1"/>
+</archimate:RealizationRelationship>

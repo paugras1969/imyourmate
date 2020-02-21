@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LEGAL"
+    id="e265eeb1-59a5-4eca-abf4-985ab2be94e0">
+  <properties
+      key="EN_US"
+      value="LEGAL"/>
+  <properties
+      key="FR_FR"
+      value="JURIDIQUE"/>
+  <properties
+      key="name"
+      value="LEGAL"/>
+</archimate:BusinessFunction>

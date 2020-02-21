@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="View A3 Lanscape"
+    id="75210ab9-3e97-4d6a-a12a-daa639f35a41">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4d2779a1-ba49-4179-b3a3-a7e9bffa43f0"
+      textAlignment="1"
+      alpha="80"
+      content="A3 Landscape">
+    <bounds
+        x="8"
+        y="8"
+        width="3868"
+        height="2360"/>
+  </children>
+</archimate:ArchimateDiagramModel>

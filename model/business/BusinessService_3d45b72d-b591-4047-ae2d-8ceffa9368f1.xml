@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1/ ENTREPRISE SERVICE"
+    id="3d45b72d-b591-4047-ae2d-8ceffa9368f1"
+    documentation="An ENTREPRISE SERVICE(1) is defined by its qualities i.e :repeatable , reliable and valuable.&#xD;&#xA;and by a supported ENTREPRISE PROCESS(3).&#xD;&#xA;&#xD;&#xA;THIS is used to identify a capabilities at entreprise level,  to be used internally or externally to predefined consumer , usually involved in the context of and ENTERPRISE PROCESS(2). &#xD;&#xA;&#xD;&#xA;"/>

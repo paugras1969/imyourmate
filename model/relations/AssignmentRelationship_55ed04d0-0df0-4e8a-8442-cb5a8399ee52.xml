@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="20"
+    id="55ed04d0-0df0-4e8a-8442-cb5a8399ee52"
+    documentation="In C View, this is important to mention to highlight if there is jump or network, and possible cracks in the digital continuity">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_4985e1f8-8587-42e0-9b4f-e9c47e9aa167.xml#4985e1f8-8587-42e0-9b4f-e9c47e9aa167"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_360eb695-daa1-4d2b-8117-4c3be0affa59.xml#360eb695-daa1-4d2b-8117-4c3be0affa59"/>
+</archimate:AssignmentRelationship>

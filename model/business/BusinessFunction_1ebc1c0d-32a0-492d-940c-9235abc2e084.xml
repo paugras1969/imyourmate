@@ -1,0 +1,14 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MONITORING"
+    id="1ebc1c0d-32a0-492d-940c-9235abc2e084">
+  <properties
+      key="EN_US"
+      value="MONITORING"/>
+  <properties
+      key="FR_FR"
+      value="CONTROLE"/>
+  <properties
+      key="name"
+      value="MONITORING"/>
+</archimate:BusinessFunction>

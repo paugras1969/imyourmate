@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="8"
+    id="7e5875f2-8025-455b-8862-d3b49178f8cd"
+    documentation="Used to track Inputs or Outputs of a task &#xD;&#xA;"
+    accessType="3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_360eb695-daa1-4d2b-8117-4c3be0affa59.xml#360eb695-daa1-4d2b-8117-4c3be0affa59"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_eef43dad-2f0a-4c4d-a726-e0f09340c0cc.xml#eef43dad-2f0a-4c4d-a726-e0f09340c0cc"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMYOURMATE SA"
+    id="0918da15-4095-4d05-94ea-7e838dbabe81">
+  <properties
+      key="EN_US"
+      value="IMYOURMATE SA"/>
+  <properties
+      key="FR_FR"
+      value="IMYOURMATE SA"/>
+  <properties
+      key="name"
+      value="IMYOURMATE SA"/>
+</archimate:BusinessActor>

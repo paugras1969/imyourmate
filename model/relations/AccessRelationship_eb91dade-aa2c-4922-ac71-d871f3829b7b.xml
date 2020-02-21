@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="44"
+    id="eb91dade-aa2c-4922-ac71-d871f3829b7b"
+    documentation="Explain the process continuity if the data is hosted in a isolate environment "
+    accessType="3">
+  <source
+      xsi:type="archimate:Path"
+      href="Path_632b618a-1fae-4549-a4cd-a01ff23f3d4f.xml#632b618a-1fae-4549-a4cd-a01ff23f3d4f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_eef43dad-2f0a-4c4d-a726-e0f09340c0cc.xml#eef43dad-2f0a-4c4d-a726-e0f09340c0cc"/>
+</archimate:AccessRelationship>

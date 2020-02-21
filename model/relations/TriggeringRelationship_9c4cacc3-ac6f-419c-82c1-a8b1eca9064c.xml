@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11"
+    id="9c4cacc3-ac6f-419c-82c1-a8b1eca9064c"
+    documentation="The concept ENTERPRISE EVENT must only be connected to others ENTERPRISE concepts ( FUNCTION , SERVICE and PROCESS)  &#xD;&#xA;The ENTERPRISE SERVICE is triggered by EVENT SERVICES to ensure ENTERPRISE synchronization from high level to lower level of process details ( business processes , activity or task)">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_28f61c86-c173-4cd5-a8cd-e0ab2fa35c06.xml#28f61c86-c173-4cd5-a8cd-e0ab2fa35c06"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_3d45b72d-b591-4047-ae2d-8ceffa9368f1.xml#3d45b72d-b591-4047-ae2d-8ceffa9368f1"/>
+</archimate:TriggeringRelationship>

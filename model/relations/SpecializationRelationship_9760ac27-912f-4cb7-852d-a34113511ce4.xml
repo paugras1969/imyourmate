@@ -1,0 +1,13 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="21"
+    id="9760ac27-912f-4cb7-852d-a34113511ce4"
+    documentation="This specialization is needed only if the role mentionned is not know in the entreprise domain. the specialization consist in finding the similar existing concept when possible&#xD;&#xA;">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_b9f37698-d6dc-4d50-8381-ae949610c396.xml#b9f37698-d6dc-4d50-8381-ae949610c396"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_e98a8dc7-7b0f-440d-a78f-37b44fb24eba.xml#e98a8dc7-7b0f-440d-a78f-37b44fb24eba"/>
+</archimate:SpecializationRelationship>

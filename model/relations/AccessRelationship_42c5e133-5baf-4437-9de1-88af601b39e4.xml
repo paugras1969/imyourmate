@@ -1,0 +1,14 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="44"
+    id="42c5e133-5baf-4437-9de1-88af601b39e4"
+    documentation="explain how the data are transport in the new application if isolated "
+    accessType="3">
+  <source
+      xsi:type="archimate:Path"
+      href="Path_632b618a-1fae-4549-a4cd-a01ff23f3d4f.xml#632b618a-1fae-4549-a4cd-a01ff23f3d4f"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_cbe784dd-bf2f-4bd5-bbc4-cba1914444ae.xml#cbe784dd-bf2f-4bd5-bbc4-cba1914444ae"/>
+</archimate:AccessRelationship>

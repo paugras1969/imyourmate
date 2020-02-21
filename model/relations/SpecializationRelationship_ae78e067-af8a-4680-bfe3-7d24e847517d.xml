@@ -1,0 +1,13 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="0"
+    id="ae78e067-af8a-4680-bfe3-7d24e847517d"
+    documentation="see *0 definition">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_12e23e1e-760b-410a-b56f-1928b5a0c03b.xml#12e23e1e-760b-410a-b56f-1928b5a0c03b"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_28f61c86-c173-4cd5-a8cd-e0ab2fa35c06.xml#28f61c86-c173-4cd5-a8cd-e0ab2fa35c06"/>
+</archimate:SpecializationRelationship>

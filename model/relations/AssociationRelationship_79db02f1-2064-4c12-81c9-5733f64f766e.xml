@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[opt]NG?"
+    id="79db02f1-2064-4c12-81c9-5733f64f766e">
+  <source
+      xsi:type="archimate:Path"
+      href="Path_632b618a-1fae-4549-a4cd-a01ff23f3d4f.xml#632b618a-1fae-4549-a4cd-a01ff23f3d4f"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_48ec8fe8-2a24-4b3f-87b7-54b948f37e74.xml#48ec8fe8-2a24-4b3f-87b7-54b948f37e74"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,53 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C1#1 Views"
+    id="0ae87c19-1c4f-4ee3-874f-012059beac2c">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="e1227b0a-92f1-4674-a06f-2b145a443127"
+      name="Inputs "
+      textAlignment="1">
+    <bounds
+        x="154"
+        y="142"
+        width="313"
+        height="444"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="23b06881-078c-449b-84c3-fa08d6f0289f"
+      font="1|Segoe UI|11.25|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+    <bounds
+        x="526"
+        y="142"
+        width="289"
+        height="444"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_8aa3b073-721d-41f2-9b54-ae6a1cfb8de4.xml#8aa3b073-721d-41f2-9b54-ae6a1cfb8de4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="ee4b1efc-f5b4-4c3d-ac13-2cffa11adfb5"
+      name="Outputs"
+      textAlignment="1">
+    <bounds
+        x="898"
+        y="141"
+        width="205"
+        height="445"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="d0133efe-e6e9-4ca9-a72f-daaad75b3742">
+    <bounds
+        x="1116"
+        y="36"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_c627bbde-c527-4794-9f37-68476197d2d7.xml#c627bbde-c527-4794-9f37-68476197d2d7"/>
+  </children>
+</archimate:ArchimateDiagramModel>

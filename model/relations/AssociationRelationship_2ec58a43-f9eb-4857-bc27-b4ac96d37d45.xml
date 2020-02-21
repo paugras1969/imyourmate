@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sd"
+    id="2ec58a43-f9eb-4857-bc27-b4ac96d37d45">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_a1032c44-a3c1-4d03-9a92-f83705ebd940.xml#a1032c44-a3c1-4d03-9a92-f83705ebd940"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_ddeb2ac1-2057-40c9-b7c9-2aca56c32a02.xml#ddeb2ac1-2057-40c9-b7c9-2aca56c32a02"/>
+</archimate:AssociationRelationship>

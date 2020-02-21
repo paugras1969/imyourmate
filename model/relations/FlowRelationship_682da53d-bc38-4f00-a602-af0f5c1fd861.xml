@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NG?"
+    id="682da53d-bc38-4f00-a602-af0f5c1fd861">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_ffc5563b-8f3b-47d3-b198-86de13403e71.xml#ffc5563b-8f3b-47d3-b198-86de13403e71"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_79f17704-c8a0-4319-b14e-f7a16095f3d5.xml#79f17704-c8a0-4319-b14e-f7a16095f3d5"/>
+</archimate:FlowRelationship>

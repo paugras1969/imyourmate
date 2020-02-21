@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NG?"
+    id="f421d15d-fcde-49c5-982a-716b66e44c9a">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_898a7292-32cc-47fc-849c-98ad10c0112b.xml#898a7292-32cc-47fc-849c-98ad10c0112b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_4db3d3e8-5f64-4244-aa02-3b9c428a84ab.xml#4db3d3e8-5f64-4244-aa02-3b9c428a84ab"/>
+</archimate:RealizationRelationship>

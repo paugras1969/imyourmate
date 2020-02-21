@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10"
+    id="b2f62304-03bc-48fa-8471-0e2405c36f6c"
+    documentation="At Enterprise level , PROCESS triggering is not that well describes, but EVENTS rule and cascade the enterprise reaction, then a serving relationship is more soft to describe the sequence of all EVENTS and PROCESSES. ">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_28f61c86-c173-4cd5-a8cd-e0ab2fa35c06.xml#28f61c86-c173-4cd5-a8cd-e0ab2fa35c06"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_bda40bb9-d4ab-4edb-81d5-026780314581.xml#bda40bb9-d4ab-4edb-81d5-026780314581"/>
+</archimate:ServingRelationship>
