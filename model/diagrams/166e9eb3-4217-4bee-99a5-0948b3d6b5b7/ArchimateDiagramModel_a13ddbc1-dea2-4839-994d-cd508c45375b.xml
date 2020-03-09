@@ -666,4 +666,25 @@
         xsi:type="archimate:Product"
         href="Product_23404937-af3c-472d-9c4c-fdf7a6458c8d.xml#23404937-af3c-472d-9c4c-fdf7a6458c8d"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ea9f52c4-e51c-47a2-9e6c-f0a43dc73d6c"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      content="EBS1 Views &#xD;&#xA;89W06 ; First Issue">
+    <bounds
+        x="110"
+        y="40"
+        width="146"
+        height="39"/>
+    <properties
+        key="EN_US"/>
+    <properties
+        key="TypeOf"
+        value="LabelViews"/>
+    <properties
+        key="FR_FR"/>
+    <properties
+        key="name"/>
+  </children>
 </archimate:ArchimateDiagramModel>
