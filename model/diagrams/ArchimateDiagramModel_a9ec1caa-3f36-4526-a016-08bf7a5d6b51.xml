@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="affe47a1-418f-4daf-b64b-fa755f83abab"
-      targetConnections="d3717254-0bf2-47fe-9c11-951e69a875ae 47c7ca5c-acf3-4972-8d21-9b5463188cb4"
+      targetConnections="d3717254-0bf2-47fe-9c11-951e69a875ae 47c7ca5c-acf3-4972-8d21-9b5463188cb4 211e5113-808a-429c-824f-7014205e161f"
       fillColor="#d8d8d8"
       content="MMD L2++ &#xD;&#xA;">
     <sourceConnections
@@ -68,6 +68,21 @@
         source="d9983d5d-3319-41bf-990a-91d5d5bd2321"
         target="105e4be9-6e7a-497a-b98f-f625d3038848"
         type="64"/>
+    <sourceConnections
+        id="ec8eb7ed-c0eb-435e-8369-77ee8d7d5949"
+        source="d9983d5d-3319-41bf-990a-91d5d5bd2321"
+        target="e31c71c9-1d15-4382-862e-483d703a6abc">
+      <bendpoints
+          startX="24"
+          startY="-37"
+          endX="-620"
+          endY="-138"/>
+      <bendpoints
+          startX="634"
+          startY="-37"
+          endX="-10"
+          endY="-138"/>
+    </sourceConnections>
     <bounds
         x="66"
         y="310"
@@ -183,7 +198,7 @@
       id="cdb3b88f-2baf-4af7-b6e6-6ff87c0b1456"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
-      content="Network of Views&#xD;&#xA;V0.1 W10">
+      content="Network of Views&#xD;&#xA;V0.1 89W10">
     <bounds
         x="50"
         y="116"
@@ -381,5 +396,22 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_5dd57ceb-447c-4399-bd74-5f0a77fa05c6.xml#5dd57ceb-447c-4399-bd74-5f0a77fa05c6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e31c71c9-1d15-4382-862e-483d703a6abc"
+      targetConnections="ec8eb7ed-c0eb-435e-8369-77ee8d7d5949"
+      fillColor="#d8d8d8"
+      content="MMD BNC++">
+    <sourceConnections
+        id="211e5113-808a-429c-824f-7014205e161f"
+        source="e31c71c9-1d15-4382-862e-483d703a6abc"
+        target="affe47a1-418f-4daf-b64b-fa755f83abab"
+        type="64"/>
+    <bounds
+        x="710"
+        y="408"
+        width="120"
+        height="60"/>
   </children>
 </archimate:ArchimateDiagramModel>

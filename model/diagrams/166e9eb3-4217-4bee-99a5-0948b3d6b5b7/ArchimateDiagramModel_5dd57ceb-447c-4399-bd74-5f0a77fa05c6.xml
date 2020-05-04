@@ -130,7 +130,7 @@
     <bounds
         x="275"
         y="120"
-        width="100"
+        width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -188,8 +188,8 @@
     </sourceConnections>
     <bounds
         x="81"
-        y="110"
-        width="100"
+        y="120"
+        width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"

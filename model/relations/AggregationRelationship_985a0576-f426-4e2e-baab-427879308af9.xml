@@ -1,7 +1,6 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NG?"
     id="985a0576-f426-4e2e-baab-427879308af9">
   <source
       xsi:type="archimate:Facility"

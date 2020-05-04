@@ -806,4 +806,16 @@
         xsi:type="archimate:Requirement"
         href="Requirement_a1032c44-a3c1-4d03-9a92-f83705ebd940.xml#a1032c44-a3c1-4d03-9a92-f83705ebd940"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c4c1ed93-f24a-4305-a2e4-cf443adc3945">
+    <bounds
+        x="565"
+        y="33"
+        width="100"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_4fb87100-be76-4284-946c-7b6c67b9894d.xml#4fb87100-be76-4284-946c-7b6c67b9894d"/>
+  </children>
 </archimate:ArchimateDiagramModel>
