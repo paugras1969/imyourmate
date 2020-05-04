@@ -194,6 +194,17 @@
         xsi:type="archimate:Grouping"
         href="Grouping_53599380-b615-4212-a8d9-3aca0d1bc477.xml#53599380-b615-4212-a8d9-3aca0d1bc477"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8f248eaa-a09a-4f86-8313-ca2d174065ab"
+      textAlignment="1"
+      content="Change AUP">
+    <bounds
+        x="125"
+        y="410"
+        width="185"
+        height="80"/>
+  </children>
   <properties
       key="EN_US"
       value="Views Navigations"/>
