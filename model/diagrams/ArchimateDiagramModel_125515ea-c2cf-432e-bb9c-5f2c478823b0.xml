@@ -200,8 +200,8 @@
       textAlignment="1"
       content="Change AUP">
     <bounds
-        x="125"
-        y="410"
+        x="60"
+        y="380"
         width="185"
         height="80"/>
   </children>
