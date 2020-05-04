@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[opt]NG?"
+    name="[opt]Defense"
     id="79db02f1-2064-4c12-81c9-5733f64f766e">
   <source
       xsi:type="archimate:Path"
