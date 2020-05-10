@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ADMIN &amp; PAYROLL"
+    name="2::ADMIN &amp; PAYROLL"
     id="643a8ac6-5aa8-4223-aed3-4e0799a6b4ee">
   <properties
       key="EN_US"
@@ -11,4 +11,7 @@
   <properties
       key="name"
       value="ADMIN &amp; PAYROLL"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
 </archimate:BusinessFunction>

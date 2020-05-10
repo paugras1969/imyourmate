@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MAGNETIC S.r.l"
+    name="47::MAGNETIC S.r.l"
     id="69732555-bd55-4536-9f0a-fa52e5b817ab">
   <properties
       key="EN_US"
@@ -11,4 +11,9 @@
   <properties
       key="name"
       value="MAGNETIC S.r.l"/>
+  <properties
+      key="IsMetaType"/>
+  <properties
+      key="TypeOf"
+      value="47"/>
 </archimate:BusinessActor>

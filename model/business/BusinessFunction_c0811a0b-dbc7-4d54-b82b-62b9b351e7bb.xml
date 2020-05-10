@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="HR"
+    name="2::HR"
     id="c0811a0b-dbc7-4d54-b82b-62b9b351e7bb">
   <properties
       key="EN_US"
@@ -11,4 +11,7 @@
   <properties
       key="name"
       value="HR"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
 </archimate:BusinessFunction>

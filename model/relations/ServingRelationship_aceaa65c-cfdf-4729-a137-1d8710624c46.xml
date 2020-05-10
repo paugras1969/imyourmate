@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*56/ "
+    id="aceaa65c-cfdf-4729-a137-1d8710624c46"
+    documentation="https://sparxsystems.com/enterprise_architect_user_guide/14.0/images/matrix-capability-map.png">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_588d66c1-e746-4bf9-89be-b7fcbf2a7dfa.xml#588d66c1-e746-4bf9-89be-b7fcbf2a7dfa"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_04f40c87-c815-4c81-95e8-3eda73afd6b3.xml#04f40c87-c815-4c81-95e8-3eda73afd6b3"/>
+</archimate:ServingRelationship>

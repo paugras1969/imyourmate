@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OPERATE"
+    name="2::OPERATE"
     id="84d505fd-af42-4027-a52e-2185b75206d8">
   <properties
       key="EN_US"
@@ -11,4 +11,7 @@
   <properties
       key="name"
       value="OPERATE"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
 </archimate:BusinessFunction>

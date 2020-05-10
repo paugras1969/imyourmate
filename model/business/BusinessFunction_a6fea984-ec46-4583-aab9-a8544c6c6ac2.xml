@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SALES . OFFER"
+    name="2::SALES . OFFER"
     id="a6fea984-ec46-4583-aab9-a8544c6c6ac2">
   <properties
       key="EN_US"
@@ -14,4 +14,7 @@
   <properties
       key="LANG"
       value="EN_US"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
 </archimate:BusinessFunction>

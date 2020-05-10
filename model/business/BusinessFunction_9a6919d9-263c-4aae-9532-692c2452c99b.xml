@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="QUALITE &amp; AMELIORATION"
+    name="2::QUALITE &amp; AMELIORATION"
     id="9a6919d9-263c-4aae-9532-692c2452c99b">
   <properties
       key="EN_US"
@@ -14,4 +14,7 @@
   <properties
       key="LANG"
       value="FR_FR"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
 </archimate:BusinessFunction>

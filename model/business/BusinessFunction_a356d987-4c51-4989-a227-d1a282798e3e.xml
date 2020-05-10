@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ADAPT &amp; SUPPORT"
+    name="2::ADAPT &amp; SUPPORT"
     id="a356d987-4c51-4989-a227-d1a282798e3e">
   <properties
       key="EN_US"
@@ -11,4 +11,7 @@
   <properties
       key="name"
       value="ADAPT &amp; SUPPORT"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
 </archimate:BusinessFunction>

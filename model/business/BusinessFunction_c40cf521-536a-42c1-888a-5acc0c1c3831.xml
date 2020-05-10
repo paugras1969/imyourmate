@@ -1,6 +1,6 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="INDUSTRIALIZE &amp; DELIVER"
+    name="2::INDUSTRIALIZE &amp; DELIVER"
     id="c40cf521-536a-42c1-888a-5acc0c1c3831">
   <properties
       key="EN_US"
@@ -11,4 +11,7 @@
   <properties
       key="name"
       value="INDUSTRIALIZE &amp; DELIVER"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
 </archimate:BusinessFunction>

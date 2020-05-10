@@ -1,6 +1,6 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IMYOURMATE SA"
+    name="47::IMYOURMATE SA"
     id="0918da15-4095-4d05-94ea-7e838dbabe81">
   <properties
       key="EN_US"
@@ -11,4 +11,9 @@
   <properties
       key="name"
       value="IMYOURMATE SA"/>
+  <properties
+      key="IsMetaType"/>
+  <properties
+      key="TypeOf"
+      value="47"/>
 </archimate:BusinessActor>

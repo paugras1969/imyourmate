@@ -122,7 +122,16 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="277bcf46-9e6e-4ba9-b41d-e34a42206188"
-      targetConnections="84e9e1e3-abc0-42cf-b5da-0cf90471eae9 cc9c2942-4428-437d-abf5-7d02da04b1aa 68ca70a5-6915-462f-acfd-4bd5b9761a6d 7a3fe68d-56f7-4117-8d87-293389936769 bfe1487e-d8a6-498b-b983-ae5015bc0447">
+      targetConnections="84e9e1e3-abc0-42cf-b5da-0cf90471eae9 cc9c2942-4428-437d-abf5-7d02da04b1aa 68ca70a5-6915-462f-acfd-4bd5b9761a6d 7a3fe68d-56f7-4117-8d87-293389936769 bfe1487e-d8a6-498b-b983-ae5015bc0447 56469146-ca11-4743-a9c2-2235434723d5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="70a5f366-c9fc-42ed-8c2e-a24d49f51521"
+        source="277bcf46-9e6e-4ba9-b41d-e34a42206188"
+        target="17d122db-fca5-449b-a01c-f6f4f53a4699">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_9682c22c-0b26-4deb-9859-e7eff69117f9.xml#9682c22c-0b26-4deb-9859-e7eff69117f9"/>
+    </sourceConnections>
     <bounds
         x="560"
         y="371"
@@ -523,5 +532,32 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_50999cd7-2b73-4269-bf69-b6a5dd19ad08.xml#50999cd7-2b73-4269-bf69-b6a5dd19ad08"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="17d122db-fca5-449b-a01c-f6f4f53a4699"
+      targetConnections="70a5f366-c9fc-42ed-8c2e-a24d49f51521">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="56469146-ca11-4743-a9c2-2235434723d5"
+        source="17d122db-fca5-449b-a01c-f6f4f53a4699"
+        target="277bcf46-9e6e-4ba9-b41d-e34a42206188">
+      <bendpoints
+          startX="13"
+          startY="-67"
+          endX="80"
+          endY="142"/>
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_18c5f976-746e-4763-a5d1-77e80f367a77.xml#18c5f976-746e-4763-a5d1-77e80f367a77"/>
+    </sourceConnections>
+    <bounds
+        x="637"
+        y="580"
+        width="100"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessInteraction"
+        href="BusinessInteraction_08a4d163-afd5-463e-bc3c-7484f461a458.xml#08a4d163-afd5-463e-bc3c-7484f461a458"/>
   </children>
 </archimate:ArchimateDiagramModel>

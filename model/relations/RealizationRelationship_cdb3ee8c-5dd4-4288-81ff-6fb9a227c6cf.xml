@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="56/ Low, Middle, High"
+    id="cdb3ee8c-5dd4-4288-81ff-6fb9a227c6cf"
+    documentation="https://sparxsystems.com/enterprise_architect_user_guide/14.0/images/matrix-capability-map.png">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_3ed702b7-63a5-48a5-8c8e-ead18e9a092b.xml#3ed702b7-63a5-48a5-8c8e-ead18e9a092b"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_588d66c1-e746-4bf9-89be-b7fcbf2a7dfa.xml#588d66c1-e746-4bf9-89be-b7fcbf2a7dfa"/>
+</archimate:RealizationRelationship>
