@@ -5435,4 +5435,15 @@
         xsi:type="archimate:ValueStream"
         href="ValueStream_13df3d2a-9b8c-4cc7-9e66-dc32b0820823.xml#13df3d2a-9b8c-4cc7-9e66-dc32b0820823"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="fab9b2cd-7216-4164-8426-c797d6805524"
+      textAlignment="1"
+      content="ToDo">
+    <bounds
+        x="2765"
+        y="452"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
