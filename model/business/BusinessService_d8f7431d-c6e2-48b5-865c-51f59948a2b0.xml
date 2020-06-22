@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="COSTING SOLUTION"
-    id="d8f7431d-c6e2-48b5-865c-51f59948a2b0"/>
+    name="1::COSTING SOLUTION"
+    id="d8f7431d-c6e2-48b5-865c-51f59948a2b0">
+  <properties
+      key="TypeOf"
+      value="1"/>
+</archimate:BusinessService>

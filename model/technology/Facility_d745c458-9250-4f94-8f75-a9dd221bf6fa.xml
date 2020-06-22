@@ -1,4 +1,8 @@
 <archimate:Facility
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MAGNETIC (IT)"
-    id="d745c458-9250-4f94-8f75-a9dd221bf6fa"/>
+    name="30::MAGNETIC (IT)"
+    id="d745c458-9250-4f94-8f75-a9dd221bf6fa">
+  <properties
+      key="TypeOf"
+      value="30"/>
+</archimate:Facility>

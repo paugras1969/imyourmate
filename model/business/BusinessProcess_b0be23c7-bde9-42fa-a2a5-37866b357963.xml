@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="size the solution  prerequistes"
-    id="b0be23c7-bde9-42fa-a2a5-37866b357963"/>
+    name="13::size the solution  prerequistes"
+    id="b0be23c7-bde9-42fa-a2a5-37866b357963">
+  <properties
+      key="TypeOf"
+      value="13"/>
+</archimate:BusinessProcess>

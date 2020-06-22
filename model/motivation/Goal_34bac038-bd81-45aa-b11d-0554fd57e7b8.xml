@@ -1,4 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Introduce new technology "
-    id="34bac038-bd81-45aa-b11d-0554fd57e7b8"/>
+    name="55::Introduce new technology "
+    id="34bac038-bd81-45aa-b11d-0554fd57e7b8">
+  <properties
+      key="TypeOf"
+      value="55"/>
+</archimate:Goal>

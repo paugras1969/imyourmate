@@ -1,4 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generate revenues"
-    id="b59acfb1-9d6a-4e30-b8be-39afb59caa8d"/>
+    name="55::Generate revenues"
+    id="b59acfb1-9d6a-4e30-b8be-39afb59caa8d">
+  <properties
+      key="TypeOf"
+      value="55"/>
+</archimate:Goal>

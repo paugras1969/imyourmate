@@ -1,4 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Plan fundings &amp; cashflows"
-    id="de3effe4-2e8e-4e9d-95aa-a6b995867eaf"/>
+    name="55::Plan fundings &amp; cashflows"
+    id="de3effe4-2e8e-4e9d-95aa-a6b995867eaf">
+  <properties
+      key="TypeOf"
+      value="55"/>
+</archimate:Goal>

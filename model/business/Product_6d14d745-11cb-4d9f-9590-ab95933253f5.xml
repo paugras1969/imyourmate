@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OFFER FOR A PRODUCT OR A SERVICE"
-    id="6d14d745-11cb-4d9f-9590-ab95933253f5"/>
+    name="5::OFFER FOR A PRODUCT OR A SERVICE"
+    id="6d14d745-11cb-4d9f-9590-ab95933253f5">
+  <properties
+      key="TypeOf"
+      value="5"/>
+</archimate:Product>

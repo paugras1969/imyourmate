@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="10/ Enteprise Business Object"
     id="4db3d3e8-5f64-4244-aa02-3b9c428a84ab"
-    documentation="Kind of information expected by enterprise processes and produced by all business process . It tracks data of every business activity outcomes in order to build an business referential used to operate all business services. &#xD;&#xA;It is often detailled by lower level of definition , Detailled Business Object(14) since it collect them and managed them as a whole when mature . &#xD;&#xA;It is also and entry point of a business dictionnary, or namming convention , a list of acronyms,  used by all discipline and departement to name theirs datas via a more precise convention. &#xD;&#xA;It is  sometimes in line with PROCESS RESULT(5)definition and sometimes in deviation to it but the only source to compose it ."/>
+    documentation="Kind of information expected by enterprise processes and produced by all business process . It tracks data of every business activity outcomes in order to build an business referential used to operate all business services. &#xD;&#xA;It is often detailled by lower level of definition , Detailled Business Object(14) since it collect them and managed them as a whole when mature . &#xD;&#xA;It is also and entry point of a business dictionnary, or namming convention , a list of acronyms,  used by all discipline and departement to name theirs datas via a more precise convention. &#xD;&#xA;It is  sometimes in line with PROCESS RESULT(5)definition and sometimes in deviation to it but the only source to compose it .">
+  <properties
+      key="TypeOf"
+      value="10"/>
+</archimate:BusinessObject>

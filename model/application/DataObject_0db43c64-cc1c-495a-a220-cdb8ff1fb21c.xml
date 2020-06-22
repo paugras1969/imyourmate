@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chapter Solution Description"
-    id="0db43c64-cc1c-495a-a220-cdb8ff1fb21c"/>
+    name="17::Chapter Solution Description"
+    id="0db43c64-cc1c-495a-a220-cdb8ff1fb21c">
+  <properties
+      key="TypeOf"
+      value="17"/>
+</archimate:DataObject>

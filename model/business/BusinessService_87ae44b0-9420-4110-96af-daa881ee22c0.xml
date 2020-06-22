@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PROJECT PLANNING"
-    id="87ae44b0-9420-4110-96af-daa881ee22c0"/>
+    name="1::PROJECT PLANNING"
+    id="87ae44b0-9420-4110-96af-daa881ee22c0">
+  <properties
+      key="TypeOf"
+      value="1"/>
+</archimate:BusinessService>

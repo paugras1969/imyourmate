@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Offer Responsible"
-    id="790be0e1-9b09-4716-9cdd-5e1ea4b98e34"/>
+    name="8::Offer Responsible"
+    id="790be0e1-9b09-4716-9cdd-5e1ea4b98e34">
+  <properties
+      key="TypeOf"
+      value="8"/>
+</archimate:BusinessRole>

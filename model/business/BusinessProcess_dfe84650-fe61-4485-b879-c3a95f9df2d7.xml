@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Build Project  Plan &quot;C3&quot;"
-    id="dfe84650-fe61-4485-b879-c3a95f9df2d7"/>
+    name="11::Build Project  Plan &quot;C3&quot;"
+    id="dfe84650-fe61-4485-b879-c3a95f9df2d7">
+  <properties
+      key="TypeOf"
+      value="11"/>
+</archimate:BusinessProcess>

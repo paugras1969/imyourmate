@@ -1,4 +1,11 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BUILD SALES PARTNERSHIP"
-    id="358df70a-ced6-4283-bf15-f654d90d5987"/>
+    name="3::BUILD SALES PARTNERSHIP"
+    id="358df70a-ced6-4283-bf15-f654d90d5987">
+  <properties
+      key="IsMetaType"
+      value="3"/>
+  <properties
+      key="TypeOf"
+      value="3"/>
+</archimate:BusinessProcess>

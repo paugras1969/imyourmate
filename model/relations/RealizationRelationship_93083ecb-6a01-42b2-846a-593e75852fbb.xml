@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="63 : tbc"
+    id="93083ecb-6a01-42b2-846a-593e75852fbb">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_7e594669-3ae3-4acf-a502-7df0db4450a3.xml#7e594669-3ae3-4acf-a502-7df0db4450a3"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_a15fb40d-9df8-489b-b6fc-a71c45d5a115.xml#a15fb40d-9df8-489b-b6fc-a71c45d5a115"/>
+</archimate:RealizationRelationship>

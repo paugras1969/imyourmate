@@ -1,4 +1,8 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Batch of Pens (Line Production)"
-    id="a2e54f11-ea37-49b8-8c95-fe09f2f2b0de"/>
+    name="28::Batch of Pens (Line Production)"
+    id="a2e54f11-ea37-49b8-8c95-fe09f2f2b0de">
+  <properties
+      key="TypeOf"
+      value="28"/>
+</archimate:Equipment>

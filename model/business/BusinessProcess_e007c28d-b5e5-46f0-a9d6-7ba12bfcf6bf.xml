@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Validate Solution Proposal &quot;CX&quot;"
-    id="e007c28d-b5e5-46f0-a9d6-7ba12bfcf6bf"/>
+    name="11::Validate Solution Proposal &quot;CX&quot;"
+    id="e007c28d-b5e5-46f0-a9d6-7ba12bfcf6bf">
+  <properties
+      key="TypeOf"
+      value="11"/>
+</archimate:BusinessProcess>

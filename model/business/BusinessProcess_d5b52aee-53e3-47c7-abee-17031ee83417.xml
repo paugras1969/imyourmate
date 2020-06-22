@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PartnerShip &amp; Supplier Involvment"
-    id="d5b52aee-53e3-47c7-abee-17031ee83417"/>
+    name="11::PartnerShip &amp; Supplier Involvment"
+    id="d5b52aee-53e3-47c7-abee-17031ee83417">
+  <properties
+      key="TypeOf"
+      value="11"/>
+</archimate:BusinessProcess>

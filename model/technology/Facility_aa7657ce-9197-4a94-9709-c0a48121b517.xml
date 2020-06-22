@@ -1,4 +1,8 @@
 <archimate:Facility
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Independant Reseller Sales Point"
-    id="aa7657ce-9197-4a94-9709-c0a48121b517"/>
+    name="29::Independant Reseller Sales Point"
+    id="aa7657ce-9197-4a94-9709-c0a48121b517">
+  <properties
+      key="TypeOf"
+      value="29"/>
+</archimate:Facility>

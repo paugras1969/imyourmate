@@ -1,4 +1,8 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Configure and delivered X2"
-    id="ef339d89-c523-4256-9bd7-eef94c66d1d3"/>
+    name="28::Configure and delivered X2"
+    id="ef339d89-c523-4256-9bd7-eef94c66d1d3">
+  <properties
+      key="TypeOf"
+      value="28"/>
+</archimate:Equipment>

@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="size customer activities and prerequisites"
-    id="f67e561a-070d-4cb4-aaca-e802e510027d"/>
+    name="13::size customer activities and prerequisites"
+    id="f67e561a-070d-4cb4-aaca-e802e510027d">
+  <properties
+      key="TypeOf"
+      value="13"/>
+</archimate:BusinessProcess>

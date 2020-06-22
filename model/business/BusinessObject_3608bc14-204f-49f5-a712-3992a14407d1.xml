@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Serie Configuration On Demand"
-    id="3608bc14-204f-49f5-a712-3992a14407d1"/>
+    name="56::Serie Configuration On Demand"
+    id="3608bc14-204f-49f5-a712-3992a14407d1">
+  <properties
+      key="TypeOf"
+      value="56"/>
+</archimate:BusinessObject>

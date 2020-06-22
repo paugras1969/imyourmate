@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pens as Ordered"
-    id="3a8b74f7-20e2-4a8d-9ce4-654637135a88"/>
+    name="56::Pens as Ordered"
+    id="3a8b74f7-20e2-4a8d-9ce4-654637135a88">
+  <properties
+      key="TypeOf"
+      value="56"/>
+</archimate:Product>

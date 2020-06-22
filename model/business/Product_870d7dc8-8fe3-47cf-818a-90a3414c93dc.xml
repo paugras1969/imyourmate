@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Product Assembly"
-    id="870d7dc8-8fe3-47cf-818a-90a3414c93dc"/>
+    name="56::Product Assembly"
+    id="870d7dc8-8fe3-47cf-818a-90a3414c93dc">
+  <properties
+      key="TypeOf"
+      value="56"/>
+</archimate:Product>

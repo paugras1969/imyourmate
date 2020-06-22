@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="document the solution"
-    id="8c29d130-87f8-412d-bfd3-e3c828fbdd12"/>
+    name="13::document the solution"
+    id="8c29d130-87f8-412d-bfd3-e3c828fbdd12">
+  <properties
+      key="TypeOf"
+      value="13"/>
+</archimate:BusinessProcess>

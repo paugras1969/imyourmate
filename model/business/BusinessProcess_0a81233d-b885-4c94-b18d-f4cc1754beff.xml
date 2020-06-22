@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="size the solution costs"
-    id="0a81233d-b885-4c94-b18d-f4cc1754beff"/>
+    name="13::size the solution costs"
+    id="0a81233d-b885-4c94-b18d-f4cc1754beff">
+  <properties
+      key="TypeOf"
+      value="13"/>
+</archimate:BusinessProcess>

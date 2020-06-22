@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maintain relashionship with  customer &amp; prospect"
-    id="dcdd0bc1-2739-477e-87ed-f23595103079"/>
+    name="1::CARE RELATIONSHIP "
+    id="dcdd0bc1-2739-477e-87ed-f23595103079">
+  <properties
+      key="TypeOf"
+      value="1"/>
+</archimate:BusinessService>

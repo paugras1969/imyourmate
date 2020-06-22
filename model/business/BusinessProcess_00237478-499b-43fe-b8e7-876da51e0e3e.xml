@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evaluate Risk Amount"
-    id="00237478-499b-43fe-b8e7-876da51e0e3e"/>
+    name="11::Evaluate Risk Amount"
+    id="00237478-499b-43fe-b8e7-876da51e0e3e">
+  <properties
+      key="TypeOf"
+      value="11"/>
+</archimate:BusinessProcess>

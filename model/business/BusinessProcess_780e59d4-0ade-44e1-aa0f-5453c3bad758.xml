@@ -1,4 +1,11 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FEEDBACK FROM LEADS"
-    id="780e59d4-0ade-44e1-aa0f-5453c3bad758"/>
+    name="3::FEEDBACK FROM LEADS"
+    id="780e59d4-0ade-44e1-aa0f-5453c3bad758">
+  <properties
+      key="IsMetaType"
+      value="3"/>
+  <properties
+      key="TypeOf"
+      value="3"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,8 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Assembly Stations  X10 ( 6 Small, 4 Meduim ) "
-    id="d7e43ea9-7373-40d7-82f9-d1214b122b35"/>
+    name="28::Assembly Stations  X10 ( 6 Small, 4 Meduim ) "
+    id="d7e43ea9-7373-40d7-82f9-d1214b122b35">
+  <properties
+      key="TypeOf"
+      value="28"/>
+</archimate:Equipment>

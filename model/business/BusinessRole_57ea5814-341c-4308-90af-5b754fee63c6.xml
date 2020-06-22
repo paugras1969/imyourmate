@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Customer Responsible"
-    id="57ea5814-341c-4308-90af-5b754fee63c6"/>
+    name="8::Customer Responsible"
+    id="57ea5814-341c-4308-90af-5b754fee63c6">
+  <properties
+      key="TypeOf"
+      value="8"/>
+</archimate:BusinessRole>

@@ -1,4 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Increase customers &amp; leads"
-    id="5e21f42c-9f18-4b90-bc2d-d1e0dd7e1a1a"/>
+    name="55::Increase customers &amp; leads"
+    id="5e21f42c-9f18-4b90-bc2d-d1e0dd7e1a1a">
+  <properties
+      key="TypeOf"
+      value="55"/>
+</archimate:Goal>

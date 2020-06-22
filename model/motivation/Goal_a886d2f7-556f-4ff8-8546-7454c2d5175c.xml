@@ -1,4 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ensure proposal project is valid for all design , build and maintain phase"
-    id="a886d2f7-556f-4ff8-8546-7454c2d5175c"/>
+    name="55::Ensure proposal project is valid for all design , build and maintain phase"
+    id="a886d2f7-556f-4ff8-8546-7454c2d5175c">
+  <properties
+      key="TypeOf"
+      value="55"/>
+</archimate:Goal>

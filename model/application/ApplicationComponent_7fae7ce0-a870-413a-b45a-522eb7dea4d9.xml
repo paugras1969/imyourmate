@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Excell "
-    id="7fae7ce0-a870-413a-b45a-522eb7dea4d9"/>
+    name="15::Excell "
+    id="7fae7ce0-a870-413a-b45a-522eb7dea4d9">
+  <properties
+      key="TypeOf"
+      value="15"/>
+</archimate:ApplicationComponent>

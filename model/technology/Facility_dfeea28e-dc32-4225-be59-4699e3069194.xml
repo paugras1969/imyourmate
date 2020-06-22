@@ -1,4 +1,8 @@
 <archimate:Facility
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name=" IMYOURMATE (FR)"
-    id="dfeea28e-dc32-4225-be59-4699e3069194"/>
+    name="30:: IMYOURMATE (FR)"
+    id="dfeea28e-dc32-4225-be59-4699e3069194">
+  <properties
+      key="TypeOf"
+      value="30"/>
+</archimate:Facility>

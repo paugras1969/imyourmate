@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Table Of Content for proposal "
-    id="fed92412-c553-418a-99b8-f1ffaff7e17d"/>
+    name="14::Table Of Content for proposal "
+    id="fed92412-c553-418a-99b8-f1ffaff7e17d">
+  <properties
+      key="TypeOf"
+      value="14"/>
+</archimate:BusinessObject>

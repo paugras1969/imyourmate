@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Costing Workshot"
-    id="7f22bcb7-3f2f-488f-85f7-60f64b453313"/>
+    name="17::Costing Workshot"
+    id="7f22bcb7-3f2f-488f-85f7-60f64b453313">
+  <properties
+      key="TypeOf"
+      value="17"/>
+</archimate:DataObject>

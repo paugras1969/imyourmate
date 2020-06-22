@@ -132,25 +132,6 @@
         id="2a9992ff-6eab-44e7-95c3-e7ffecaa63a6">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="b0f22906-4cd7-454f-808b-2f9cc5f01828"
-          lineColor="#808080"
-          source="2a9992ff-6eab-44e7-95c3-e7ffecaa63a6"
-          target="98671cc1-56fd-4db7-87cc-e966d4084c8c">
-        <bendpoints
-            startX="-80"
-            startY="1"
-            endX="-46"
-            endY="313"/>
-        <bendpoints
-            startX="-168"
-            startY="12"
-            endY="105"/>
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_d922fd31-4ba3-4f3a-8417-482af139580d.xml#d922fd31-4ba3-4f3a-8417-482af139580d"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="0bfbf86f-ca5e-45f3-ae96-99c4b90d2807"
           font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
           lineColor="#808080"
@@ -707,7 +688,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="98671cc1-56fd-4db7-87cc-e966d4084c8c"
-        targetConnections="b0f22906-4cd7-454f-808b-2f9cc5f01828"
         fillColor="#ffffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

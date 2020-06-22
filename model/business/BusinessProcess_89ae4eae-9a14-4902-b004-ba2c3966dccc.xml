@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lost Review"
-    id="89ae4eae-9a14-4902-b004-ba2c3966dccc"/>
+    name="7::Lost Review"
+    id="89ae4eae-9a14-4902-b004-ba2c3966dccc">
+  <properties
+      key="TypeOf"
+      value="7"/>
+</archimate:BusinessProcess>

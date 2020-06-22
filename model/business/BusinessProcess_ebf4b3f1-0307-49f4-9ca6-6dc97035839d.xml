@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Produce Solution Definition &quot;C2&quot;"
-    id="ebf4b3f1-0307-49f4-9ca6-6dc97035839d"/>
+    name="11::Produce Solution Definition &quot;C2&quot;"
+    id="ebf4b3f1-0307-49f4-9ca6-6dc97035839d">
+  <properties
+      key="TypeOf"
+      value="11"/>
+</archimate:BusinessProcess>

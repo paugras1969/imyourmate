@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pallet of Pens "
-    id="c5567333-1c94-4b53-8b96-992c46b367d4"/>
+    name="56::Pallet of Pens "
+    id="c5567333-1c94-4b53-8b96-992c46b367d4">
+  <properties
+      key="TypeOf"
+      value="56"/>
+</archimate:Product>

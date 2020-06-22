@@ -1,4 +1,8 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PROJECT SCENARIOS &amp; HYPOTHESIS"
-    id="45e5a2f6-814e-4897-aa3e-2f6c1a700e39"/>
+    name="4::PROJECT SCENARIOS &amp; HYPOTHESIS"
+    id="45e5a2f6-814e-4897-aa3e-2f6c1a700e39">
+  <properties
+      key="TypeOf"
+      value="4"/>
+</archimate:BusinessEvent>

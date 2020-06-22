@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Product in White"
-    id="a05f8153-8b68-4bb9-89c5-8cbae3ca949a"/>
+    name="56::Product in White"
+    id="a05f8153-8b68-4bb9-89c5-8cbae3ca949a">
+  <properties
+      key="TypeOf"
+      value="56"/>
+</archimate:Product>
