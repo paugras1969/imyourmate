@@ -21,6 +21,18 @@
         y="137"
         width="120"
         height="55"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="042ef465-de75-4eea-a0d9-7de2c6dba962">
+      <bounds
+          x="20"
+          y="20"
+          width="81"
+          height="31"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_c2ffe90b-d163-43d0-99f8-fe1fa7f5c57f.xml#c2ffe90b-d163-43d0-99f8-fe1fa7f5c57f"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_3278d08a-98d2-463d-8eed-ac78b564029b.xml#3278d08a-98d2-463d-8eed-ac78b564029b"/>
