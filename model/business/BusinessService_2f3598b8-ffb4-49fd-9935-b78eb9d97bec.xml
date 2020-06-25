@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EVALUATE FINANCIAL RISK"
-    id="2f3598b8-ffb4-49fd-9935-b78eb9d97bec"/>
+    name="1::EVALUATE FINANCIAL RISK"
+    id="2f3598b8-ffb4-49fd-9935-b78eb9d97bec">
+  <properties
+      key="TypeOf"
+      value="1"/>
+</archimate:BusinessService>
