@@ -1135,6 +1135,20 @@
           xsi:type="archimate:Goal"
           href="Goal_de3effe4-2e8e-4e9d-95aa-a6b995867eaf.xml#de3effe4-2e8e-4e9d-95aa-a6b995867eaf"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="fb5b9708-9fea-4b4a-92b4-0a0049b485d3"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ff80c0"
+        fillColor="#e8eaea"
+        content="www.yourmate.fr (2020)"
+        borderType="2">
+      <bounds
+          x="1318"
+          y="824"
+          width="185"
+          height="32"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

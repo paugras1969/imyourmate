@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tmplogo"
+    id="6d011b61-d0cf-4e0e-9cac-8adad4c29889">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7f716d5b-6833-49cd-a80b-b8f60e09b522"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#0000ff"
+      fillColor="#e8eaea"
+      content="www.yourmate.fr (2020)"
+      borderType="2">
+    <bounds
+        x="30"
+        y="40"
+        width="185"
+        height="32"/>
+  </children>
+</archimate:ArchimateDiagramModel>

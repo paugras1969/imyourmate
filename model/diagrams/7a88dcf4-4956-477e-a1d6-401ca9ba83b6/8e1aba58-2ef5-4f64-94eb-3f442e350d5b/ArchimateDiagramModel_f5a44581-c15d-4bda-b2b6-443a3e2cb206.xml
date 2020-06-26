@@ -1117,4 +1117,18 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_4db3d3e8-5f64-4244-aa02-3b9c428a84ab.xml#4db3d3e8-5f64-4244-aa02-3b9c428a84ab"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="aa45b372-9a5d-4314-9000-4a89d694cc65"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff80c0"
+      fillColor="#e8eaea"
+      content="www.yourmate.fr (2020)"
+      borderType="2">
+    <bounds
+        x="1020"
+        y="672"
+        width="185"
+        height="32"/>
+  </children>
 </archimate:ArchimateDiagramModel>

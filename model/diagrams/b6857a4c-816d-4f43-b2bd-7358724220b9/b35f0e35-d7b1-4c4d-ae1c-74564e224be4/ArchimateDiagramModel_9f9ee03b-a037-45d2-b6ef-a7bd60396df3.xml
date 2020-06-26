@@ -609,6 +609,20 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_24b211c7-25ca-42aa-90d8-dd30b71eec95.xml#24b211c7-25ca-42aa-90d8-dd30b71eec95"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="6d04d460-802d-4403-a906-363337dd63c1"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff80c0"
+      fillColor="#e8eaea"
+      content="www.yourmate.fr (2020)"
+      borderType="2">
+    <bounds
+        x="1010"
+        y="458"
+        width="185"
+        height="32"/>
+  </children>
   <properties
       key="EN_US"
       value="EFS0 Views"/>

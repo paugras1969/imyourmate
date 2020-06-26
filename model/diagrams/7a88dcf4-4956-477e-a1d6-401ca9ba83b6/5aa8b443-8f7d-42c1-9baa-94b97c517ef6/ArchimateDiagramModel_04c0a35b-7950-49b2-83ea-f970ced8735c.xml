@@ -666,4 +666,18 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_c3ac98d9-ed5f-4f99-9fe7-484a208d88f7.xml#c3ac98d9-ed5f-4f99-9fe7-484a208d88f7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="559abf62-6442-4c23-bc46-3c4d96ab428e"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff80c0"
+      fillColor="#e8eaea"
+      content="www.yourmate.fr (2020)"
+      borderType="2">
+    <bounds
+        x="898"
+        y="612"
+        width="185"
+        height="32"/>
+  </children>
 </archimate:ArchimateDiagramModel>

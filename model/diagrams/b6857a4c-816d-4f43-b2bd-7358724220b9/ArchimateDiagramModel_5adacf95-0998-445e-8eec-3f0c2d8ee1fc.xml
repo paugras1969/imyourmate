@@ -240,8 +240,8 @@
           href="RealizationRelationship_cfffccff-f086-48b9-8141-10cac0a48931.xml#cfffccff-f086-48b9-8141-10cac0a48931"/>
     </sourceConnections>
     <bounds
-        x="922"
-        y="390"
+        x="890"
+        y="346"
         width="120"
         height="55"/>
     <archimateElement
@@ -256,8 +256,8 @@
       lineColor="#e8eaea"
       fillColor="#e8eaea">
     <bounds
-        x="1090"
-        y="390"
+        x="1058"
+        y="346"
         width="120"
         height="55"/>
     <archimateElement
@@ -282,8 +282,8 @@
           href="AssignmentRelationship_63f8aa09-0883-4546-942a-b6f9dca92d0e.xml#63f8aa09-0883-4546-942a-b6f9dca92d0e"/>
     </sourceConnections>
     <bounds
-        x="922"
-        y="480"
+        x="890"
+        y="436"
         width="120"
         height="55"/>
     <archimateElement
@@ -323,8 +323,8 @@
           href="ServingRelationship_fb8e0cad-a7aa-4d3f-b64a-02e4a5b459ba.xml#fb8e0cad-a7aa-4d3f-b64a-02e4a5b459ba"/>
     </sourceConnections>
     <bounds
-        x="1091"
-        y="490"
+        x="1059"
+        y="446"
         width="118"
         height="55"/>
     <archimateElement
@@ -338,8 +338,8 @@
       lineColor="#e8eaea"
       fillColor="#e8eaea">
     <bounds
-        x="1090"
-        y="570"
+        x="1058"
+        y="526"
         width="120"
         height="55"/>
     <archimateElement
@@ -361,8 +361,8 @@
           href="AssignmentRelationship_2010548a-9b2d-4af5-85eb-7c379c8e6318.xml#2010548a-9b2d-4af5-85eb-7c379c8e6318"/>
     </sourceConnections>
     <bounds
-        x="922"
-        y="300"
+        x="890"
+        y="256"
         width="120"
         height="55"/>
     <archimateElement
@@ -502,5 +502,19 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_dcdd0bc1-2739-477e-87ed-f23595103079.xml#dcdd0bc1-2739-477e-87ed-f23595103079"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8f49662e-7a03-4eda-b386-b3bc55044943"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff80c0"
+      fillColor="#e8eaea"
+      content="www.yourmate.fr (2020)"
+      borderType="2">
+    <bounds
+        x="992"
+        y="596"
+        width="185"
+        height="32"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1106,4 +1106,18 @@
         xsi:type="archimate:ApplicationProcess"
         href="ApplicationProcess_2fb34694-076d-4630-a2e5-6e7220cedb58.xml#2fb34694-076d-4630-a2e5-6e7220cedb58"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b82feeeb-69ee-448f-bef4-8daec5fc2e49"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff80c0"
+      fillColor="#e8eaea"
+      content="www.yourmate.fr (2020)"
+      borderType="2">
+    <bounds
+        x="779"
+        y="760"
+        width="185"
+        height="32"/>
+  </children>
 </archimate:ArchimateDiagramModel>

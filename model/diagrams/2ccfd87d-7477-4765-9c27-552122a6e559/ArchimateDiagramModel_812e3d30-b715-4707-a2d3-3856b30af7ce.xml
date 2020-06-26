@@ -985,4 +985,18 @@
         xsi:type="archimate:DistributionNetwork"
         href="DistributionNetwork_039041e5-18ec-4b0c-b706-0881b6fbe85f.xml#039041e5-18ec-4b0c-b706-0881b6fbe85f"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e9bb2b41-0af9-4805-ae2f-aa88f8f65d68"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff80c0"
+      fillColor="#e8eaea"
+      content="www.yourmate.fr (2020)"
+      borderType="2">
+    <bounds
+        x="756"
+        y="452"
+        width="185"
+        height="32"/>
+  </children>
 </archimate:ArchimateDiagramModel>
