@@ -1,7 +1,9 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="0df723d8-74e4-4715-acd7-4f6d5f2f3886">
+    name="69*"
+    id="0df723d8-74e4-4715-acd7-4f6d5f2f3886"
+    documentation="Allows&#xD;&#xA;">
   <source
       xsi:type="archimate:BusinessInterface"
       href="BusinessInterface_0aa45061-c2d1-4e68-b3be-317fc7387555.xml#0aa45061-c2d1-4e68-b3be-317fc7387555"/>
