@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Legal Doc V2"
-    id="4d2b19e9-2871-4c86-8703-23430e39bb88"/>
+    name="21::Legal Doc V2"
+    id="4d2b19e9-2871-4c86-8703-23430e39bb88">
+  <properties
+      key="TypeOf"
+      value="21"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IT &amp; IS Survey"
-    id="af6543a3-7ef7-4407-a1cd-44dead35f33e"/>
+    name="21::IT &amp; IS Survey"
+    id="af6543a3-7ef7-4407-a1cd-44dead35f33e">
+  <properties
+      key="TypeOf"
+      value="21"/>
+</archimate:ApplicationComponent>

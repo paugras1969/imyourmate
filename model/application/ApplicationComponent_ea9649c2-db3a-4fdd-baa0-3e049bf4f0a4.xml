@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Printer R1"
-    id="ea9649c2-db3a-4fdd-baa0-3e049bf4f0a4"/>
+    name="21::Printer R1"
+    id="ea9649c2-db3a-4fdd-baa0-3e049bf4f0a4">
+  <properties
+      key="TypeOf"
+      value="21"/>
+</archimate:ApplicationComponent>

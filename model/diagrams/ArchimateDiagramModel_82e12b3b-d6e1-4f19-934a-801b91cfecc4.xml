@@ -101,7 +101,7 @@
         width="100"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_441a17ce-79a7-4421-b368-50409cfdfab1.xml#441a17ce-79a7-4421-b368-50409cfdfab1"/>
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_7023feeb-32a4-48cb-833c-950c0dcd9104.xml#7023feeb-32a4-48cb-833c-950c0dcd9104"/>
   </children>
 </archimate:ArchimateDiagramModel>

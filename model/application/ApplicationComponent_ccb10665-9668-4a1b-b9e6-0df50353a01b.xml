@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Build Access"
-    id="ccb10665-9668-4a1b-b9e6-0df50353a01b"/>
+    name="21::Build Access"
+    id="ccb10665-9668-4a1b-b9e6-0df50353a01b">
+  <properties
+      key="TypeOf"
+      value="21"/>
+</archimate:ApplicationComponent>

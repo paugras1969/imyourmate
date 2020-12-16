@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Document Coprodyuction "
-    id="f802d1ed-2b1b-4958-8064-4f56241c1f93"/>
+    name="21::Document Coprodyuction "
+    id="f802d1ed-2b1b-4958-8064-4f56241c1f93">
+  <properties
+      key="TypeOf"
+      value="21"/>
+</archimate:ApplicationService>

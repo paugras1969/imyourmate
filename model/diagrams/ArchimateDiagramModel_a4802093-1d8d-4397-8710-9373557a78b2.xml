@@ -1563,8 +1563,8 @@
           href="CompositionRelationship_45d78462-acbe-4a89-91ff-e493dd8e32e2.xml#45d78462-acbe-4a89-91ff-e493dd8e32e2"/>
     </sourceConnections>
     <bounds
-        x="610"
-        y="490"
+        x="95"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
@@ -2023,7 +2023,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ce716f1a-cf49-41f4-8074-f11c3042f5ec"
-      targetConnections="9dc10350-a5fd-4be1-8d2c-de96fcff5891 4343eec0-6ad8-4368-8fe9-4d3e77d41bac 581e2795-77fc-4668-bf38-6d8f2e7a343e 12fdf5f7-0802-40af-b08b-bdc981277ff1 cdd8df94-83d2-457f-8133-d3096c6ce4c3 b7c79593-735f-4a3c-8f1a-9aa13e1040fb"
+      targetConnections="9dc10350-a5fd-4be1-8d2c-de96fcff5891 581e2795-77fc-4668-bf38-6d8f2e7a343e 12fdf5f7-0802-40af-b08b-bdc981277ff1 cdd8df94-83d2-457f-8133-d3096c6ce4c3 b7c79593-735f-4a3c-8f1a-9aa13e1040fb 4343eec0-6ad8-4368-8fe9-4d3e77d41bac"
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -2211,8 +2211,8 @@
           endX="34"
           endY="-106"/>
       <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_1ca3c97b-b85b-4c97-875c-cfe949052c73.xml#1ca3c97b-b85b-4c97-875c-cfe949052c73"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_cb3962b9-97d8-4bf5-8e54-6271f9038c0f.xml#cb3962b9-97d8-4bf5-8e54-6271f9038c0f"/>
     </sourceConnections>
     <bounds
         x="975"
@@ -2220,8 +2220,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_8134d16b-442e-4674-874b-9541aabd055a.xml#8134d16b-442e-4674-874b-9541aabd055a"/>
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_daadd5e4-9d4e-4d66-9948-b025f0405302.xml#daadd5e4-9d4e-4d66-9948-b025f0405302"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
