@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[opt]"
+    id="41ae58e3-0261-455d-ad47-6bd4172925f2"
+    documentation="This relationship has been converted from &quot;composition&quot; to &quot;assigned&quot;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_e05d3c8d-3de8-4b31-9f0d-38809f61204d.xml#e05d3c8d-3de8-4b31-9f0d-38809f61204d"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_daadd5e4-9d4e-4d66-9948-b025f0405302.xml#daadd5e4-9d4e-4d66-9948-b025f0405302"/>
+</archimate:AssignmentRelationship>

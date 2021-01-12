@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="103::PRODUCTION &amp; SUPPLY MGT"
+    name="102::PRODUCTION &amp; SUPPLY MGT"
     id="9fa84238-f779-40e2-820b-456d3577cc5d">
   <properties
       key="TypeOf"
-      value="103"/>
+      value="102"/>
 </archimate:ApplicationFunction>

@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="103::DOC &amp; DATA MGT"
+    name="102::DOC &amp; DATA MGT"
     id="1a915f2f-6ffd-40d0-9883-4c942b82d45d">
   <properties
       key="TypeOf"
-      value="103"/>
+      value="102"/>
 </archimate:ApplicationFunction>

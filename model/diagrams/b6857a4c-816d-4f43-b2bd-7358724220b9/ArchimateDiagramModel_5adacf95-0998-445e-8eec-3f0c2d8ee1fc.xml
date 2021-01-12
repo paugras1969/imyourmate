@@ -240,8 +240,8 @@
           href="RealizationRelationship_cfffccff-f086-48b9-8141-10cac0a48931.xml#cfffccff-f086-48b9-8141-10cac0a48931"/>
     </sourceConnections>
     <bounds
-        x="890"
-        y="346"
+        x="1010"
+        y="310"
         width="120"
         height="55"/>
     <archimateElement
@@ -256,8 +256,8 @@
       lineColor="#e8eaea"
       fillColor="#e8eaea">
     <bounds
-        x="1058"
-        y="346"
+        x="1178"
+        y="310"
         width="120"
         height="55"/>
     <archimateElement
@@ -282,8 +282,8 @@
           href="AssignmentRelationship_63f8aa09-0883-4546-942a-b6f9dca92d0e.xml#63f8aa09-0883-4546-942a-b6f9dca92d0e"/>
     </sourceConnections>
     <bounds
-        x="890"
-        y="436"
+        x="1010"
+        y="400"
         width="120"
         height="55"/>
     <archimateElement
@@ -323,8 +323,8 @@
           href="ServingRelationship_fb8e0cad-a7aa-4d3f-b64a-02e4a5b459ba.xml#fb8e0cad-a7aa-4d3f-b64a-02e4a5b459ba"/>
     </sourceConnections>
     <bounds
-        x="1059"
-        y="446"
+        x="1179"
+        y="410"
         width="118"
         height="55"/>
     <archimateElement
@@ -338,8 +338,8 @@
       lineColor="#e8eaea"
       fillColor="#e8eaea">
     <bounds
-        x="1058"
-        y="526"
+        x="1178"
+        y="490"
         width="120"
         height="55"/>
     <archimateElement
@@ -361,8 +361,8 @@
           href="AssignmentRelationship_2010548a-9b2d-4af5-85eb-7c379c8e6318.xml#2010548a-9b2d-4af5-85eb-7c379c8e6318"/>
     </sourceConnections>
     <bounds
-        x="890"
-        y="256"
+        x="1010"
+        y="220"
         width="120"
         height="55"/>
     <archimateElement
@@ -435,7 +435,7 @@
       content="OBS1 Views &#xD;&#xA;89W24 ; First Issue">
     <bounds
         x="58"
-        y="90"
+        y="82"
         width="146"
         height="39"/>
     <properties
@@ -512,8 +512,8 @@
       content="www.yourmate.fr (2020)"
       borderType="2">
     <bounds
-        x="992"
-        y="596"
+        x="1112"
+        y="560"
         width="185"
         height="32"/>
   </children>

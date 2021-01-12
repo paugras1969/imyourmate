@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="103::CUSTOMER RELATIONSHIP MGT"
+    name="102::CUSTOMER RELATIONSHIP MGT"
     id="ee59279d-64df-437e-b004-a73452f5afc0">
   <properties
       key="TypeOf"
-      value="103"/>
+      value="102"/>
 </archimate:ApplicationFunction>

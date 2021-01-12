@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="103::HR MANAGEMENT"
+    name="102::HR MANAGEMENT"
     id="faf0d778-5d91-4d80-8fd1-ab48a97350e1">
   <properties
       key="TypeOf"
-      value="103"/>
+      value="102"/>
 </archimate:ApplicationFunction>

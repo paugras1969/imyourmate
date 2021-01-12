@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architecture Enterprise"
+    id="cbb6cdc8-0e5d-4a3e-9f7e-c9216019c9da"
+    documentation="https://www.mega.com/fr/press-release-mega-reconnu-leader-technologique-mondial-des-outils-d-architecture-d-entreprise-par?utm_medium=social&amp;utm_campaign=corp&amp;utm_source=linkedin">
+  <properties
+      key="TypeOf"
+      value="21"/>
+</archimate:ApplicationComponent>

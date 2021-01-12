@@ -1,0 +1,17 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2::ICT"
+    id="86260b59-51f2-4223-9695-d4329dea12aa">
+  <properties
+      key="EN_US"
+      value="HR"/>
+  <properties
+      key="FR_FR"
+      value="RH"/>
+  <properties
+      key="name"
+      value="HR"/>
+  <properties
+      key="TypeOf"
+      value="2"/>
+</archimate:BusinessFunction>

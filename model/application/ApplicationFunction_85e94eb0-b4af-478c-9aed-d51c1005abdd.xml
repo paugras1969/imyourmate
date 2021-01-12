@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="103::ASSET MANAGEMT"
+    name="102::ASSET MANAGEMT"
     id="85e94eb0-b4af-478c-9aed-d51c1005abdd">
   <properties
       key="TypeOf"
-      value="103"/>
+      value="102"/>
 </archimate:ApplicationFunction>
