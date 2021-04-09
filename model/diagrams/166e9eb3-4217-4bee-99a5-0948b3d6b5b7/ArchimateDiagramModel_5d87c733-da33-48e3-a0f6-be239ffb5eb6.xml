@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EBS1 : SALES &amp; OFFER"
+    name="OBS1 : SALES &amp; OFFER"
     id="5d87c733-da33-48e3-a0f6-be239ffb5eb6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

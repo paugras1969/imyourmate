@@ -291,9 +291,9 @@
           href="CompositionRelationship_57e98227-3c3b-4f9d-a315-0ffabcd1c526.xml#57e98227-3c3b-4f9d-a315-0ffabcd1c526"/>
     </sourceConnections>
     <bounds
-        x="449"
+        x="350"
         y="528"
-        width="100"
+        width="199"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Device"
