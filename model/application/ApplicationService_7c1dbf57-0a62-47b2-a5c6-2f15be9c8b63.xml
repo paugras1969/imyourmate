@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::Clikckup"
+    id="7c1dbf57-0a62-47b2-a5c6-2f15be9c8b63">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:ApplicationService>

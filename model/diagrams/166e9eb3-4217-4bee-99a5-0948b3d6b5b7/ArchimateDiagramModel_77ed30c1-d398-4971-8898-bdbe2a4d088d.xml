@@ -485,34 +485,34 @@
           x="10"
           y="328"
           width="90"
-          height="80"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="753a4eb2-e4f5-4902-b690-b1b596e231c8"
-          targetConnections="3980a005-6cf5-4dc4-8358-f93cc42fd206 1ddf8ef7-8698-4108-9832-db31ec776030">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="ac307a02-1a54-4351-a294-ad2b67a2d340"
-            fontColor="#ff0000"
-            lineColor="#ff0000"
-            source="753a4eb2-e4f5-4902-b690-b1b596e231c8"
-            target="290ed207-0221-4490-b4ee-679511f24035">
-          <archimateRelationship
-              xsi:type="archimate:FlowRelationship"
-              href="FlowRelationship_f1983425-f791-4044-be95-a18a73f9e0e6.xml#f1983425-f791-4044-be95-a18a73f9e0e6"/>
-        </sourceConnections>
-        <bounds
-            x="30"
-            y="30"
-            width="15"
-            height="15"/>
-        <archimateElement
-            xsi:type="archimate:Junction"
-            href="Junction_feaf58ac-7aac-49ab-8e4d-20cb43226919.xml#feaf58ac-7aac-49ab-8e4d-20cb43226919"/>
-      </children>
+          height="243"/>
       <archimateElement
           xsi:type="archimate:DistributionNetwork"
           href="DistributionNetwork_0e87a141-3de6-4fd0-94cc-a7a8a61b073a.xml#0e87a141-3de6-4fd0-94cc-a7a8a61b073a"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="753a4eb2-e4f5-4902-b690-b1b596e231c8"
+      targetConnections="3980a005-6cf5-4dc4-8358-f93cc42fd206 1ddf8ef7-8698-4108-9832-db31ec776030">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ac307a02-1a54-4351-a294-ad2b67a2d340"
+        fontColor="#ff0000"
+        lineColor="#ff0000"
+        source="753a4eb2-e4f5-4902-b690-b1b596e231c8"
+        target="290ed207-0221-4490-b4ee-679511f24035">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_f1983425-f791-4044-be95-a18a73f9e0e6.xml#f1983425-f791-4044-be95-a18a73f9e0e6"/>
+    </sourceConnections>
+    <bounds
+        x="1080"
+        y="433"
+        width="15"
+        height="15"/>
+    <archimateElement
+        xsi:type="archimate:Junction"
+        href="Junction_feaf58ac-7aac-49ab-8e4d-20cb43226919.xml#feaf58ac-7aac-49ab-8e4d-20cb43226919"/>
   </children>
 </archimate:ArchimateDiagramModel>

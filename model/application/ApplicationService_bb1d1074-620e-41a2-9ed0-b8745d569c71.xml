@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::Hello Sign"
+    id="bb1d1074-620e-41a2-9ed0-b8745d569c71">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:ApplicationService>

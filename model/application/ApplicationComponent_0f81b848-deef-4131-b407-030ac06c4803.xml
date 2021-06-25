@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::Application Component"
+    id="0f81b848-deef-4131-b407-030ac06c4803">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:ApplicationComponent>

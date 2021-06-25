@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::gdrive"
+    id="747ce983-4f06-4ec7-8a48-504b27e7d402">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:ApplicationService>

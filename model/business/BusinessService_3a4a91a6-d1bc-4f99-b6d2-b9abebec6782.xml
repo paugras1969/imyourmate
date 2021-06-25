@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::Contraluation "
+    id="3a4a91a6-d1bc-4f99-b6d2-b9abebec6782">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:BusinessService>

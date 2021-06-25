@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::Goal"
+    id="291ad7db-249f-45ec-b467-371a2342195d">
+  <properties
+      key="IsMetaType"
+      value="BZHunt"/>
+  <properties
+      key="TypeOf"
+      value="BZHunt "/>
+</archimate:Goal>

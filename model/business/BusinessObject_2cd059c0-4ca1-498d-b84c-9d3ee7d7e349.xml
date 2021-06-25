@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::Business Object"
+    id="2cd059c0-4ca1-498d-b84c-9d3ee7d7e349">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:BusinessObject>

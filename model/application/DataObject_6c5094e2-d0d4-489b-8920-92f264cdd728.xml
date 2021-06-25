@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::Data Object"
+    id="6c5094e2-d0d4-489b-8920-92f264cdd728">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:DataObject>

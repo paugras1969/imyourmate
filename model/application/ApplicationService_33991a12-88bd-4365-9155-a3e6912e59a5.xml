@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BZHunt::discord"
+    id="33991a12-88bd-4365-9155-a3e6912e59a5">
+  <properties
+      key="TypeOf"
+      value="BZHunt"/>
+</archimate:ApplicationService>
